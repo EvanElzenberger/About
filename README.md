@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evan Elzenberger</h1>
 <h3 align="center">Data Enthusiast based in Denver</h3>
 
-- 🔭 I’m currently working on [Hagrid](link)
+- 🔭 I’m currently working on [Order Book Analytics](link)
 
 - 👯 I’m looking to collaborate on [Hockey Analytics](link)
 
