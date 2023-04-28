@@ -10,7 +10,7 @@
 - 📫 How to reach me **evan.elzenberger@live.com**
 
 
-- ⚡ Fun fact **Love a good Machine**
+- ⚡ Fun fact: I love a good machine!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
