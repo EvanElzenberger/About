@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Finance Data](link)
 
-- 👨‍💻 Project Showcase [Project Showcase](TBA)
+- 👨‍💻 Project Showcase [Project Showcase](https://github.com/EvanElzenberger/ProjectShowcase)
 
 - 📫 How to reach me **evan.elzenberger@live.com**
 
