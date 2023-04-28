@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Evan Elzenberger</h1>
 <h3 align="center">Data Enthusiast based in Denver</h3>
 
-- 🔭 I’m currently working on [Order Book Analytics](link)
+- 🔭 I’m currently working on [TBA](TBA)
 
-- 👯 I’m looking to collaborate on [Hockey Analytics](link)
-
-- 🤝 I’m looking for help with [Finance Data](link)
+- 👯 I’m looking to collaborate on [TBA](TBA)
 
 - 👨‍💻 Project Showcase [Project Showcase](https://github.com/EvanElzenberger/ProjectShowcase)
 
 - 📫 How to reach me **evan.elzenberger@live.com**
 
-- 📄 Know about my experiences [TBA](TBA)
 
 - ⚡ Fun fact **Love a good Machine**
 
