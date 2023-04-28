@@ -7,9 +7,7 @@
 
 - 🤝 I’m looking for help with [Finance Data](link)
 
-- 👨‍💻 All of my projects are available at [TBA](TBA)
-
-- 📝 I regularly write articles on [TBA](TBA)
+- 👨‍💻 Project Showcase [Project Showcase](TBA)
 
 - 📫 How to reach me **evan.elzenberger@live.com**
 
