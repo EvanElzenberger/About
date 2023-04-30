@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [TBA](TBA)
 
-- 👨‍💻 Project Showcase [Project Showcase](https://github.com/EvanElzenberger/ProjectShowcase)
+- 👨‍💻 Project Showcase [Here](https://github.com/EvanElzenberger/ProjectShowcase)
 
 - 📫 How to reach me **evan.elzenberger@live.com**
 
